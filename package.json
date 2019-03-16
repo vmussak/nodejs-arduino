@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-arduino",
+  "version": "1.0.0",
+  "description": "nodejs para controlar um arduino",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vinicius Mussak <vinicius.mussak@outlook.com>",
+  "license": "ISC",
+  "dependencies": {
+    "johnny-five": "^1.0.0"
+  }
+}
